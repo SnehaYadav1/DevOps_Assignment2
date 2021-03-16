@@ -2,3 +2,4 @@
 
 ### DevOps_Assignment2: - DockerFile - Build image with loaded MYSQL schema
 
+Steps to solve
